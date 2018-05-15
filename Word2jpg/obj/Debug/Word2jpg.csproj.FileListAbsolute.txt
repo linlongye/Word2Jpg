@@ -1,0 +1,10 @@
+E:\C++\Word2jpg\Word2jpg\bin\Debug\Word2jpg.exe
+E:\C++\Word2jpg\Word2jpg\bin\Debug\Word2jpg.pdb
+E:\C++\Word2jpg\Word2jpg\bin\Debug\Aspose.Words.dll
+E:\C++\Word2jpg\Word2jpg\obj\Debug\Word2jpg.csprojResolveAssemblyReference.cache
+E:\C++\Word2jpg\Word2jpg\obj\Debug\Word2jpg.Form1.resources
+E:\C++\Word2jpg\Word2jpg\obj\Debug\Word2jpg.Properties.Resources.resources
+E:\C++\Word2jpg\Word2jpg\obj\Debug\Word2jpg.csproj.GenerateResource.Cache
+E:\C++\Word2jpg\Word2jpg\obj\Debug\Word2jpg.csproj.CoreCompileInputs.cache
+E:\C++\Word2jpg\Word2jpg\obj\Debug\Word2jpg.exe
+E:\C++\Word2jpg\Word2jpg\obj\Debug\Word2jpg.pdb
